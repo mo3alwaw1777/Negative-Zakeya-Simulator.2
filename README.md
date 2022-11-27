@@ -1,1 +1,1 @@
-# Negative-Zakeya-Simulator.2
+# Negative Zakeya Simulator2
